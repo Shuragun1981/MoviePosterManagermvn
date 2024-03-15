@@ -18,17 +18,8 @@ public class MoviePoster {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
-
-    }
-
     public String getMovieTitlePoster() {
         return movieTitlePoster;
     }
 
-    public void SetMovieTitlePoster(String movieTitlePoster) {
-
-        this.movieTitlePoster = movieTitlePoster;
-    }
 }
